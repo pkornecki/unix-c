@@ -1,0 +1,13 @@
+# ls /bin /home/user > ex03
+
+/bin:
+[
+411toppm
+7z
+...
+zstdmt
+
+/home/user/:
+auto
+...
+tmp
